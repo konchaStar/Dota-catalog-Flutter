@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBbr7Ud8j-sZ7Sbm4tKWtR4l4c-iZvFIUc',
-    appId: '1:525771353527:android:b619471d8483bbb66c8c32',
-    messagingSenderId: '525771353527',
-    projectId: 'lab1flutter',
-    storageBucket: 'lab1flutter.appspot.com',
+    apiKey: 'AIzaSyAgDcJFtbn_aLE21ShrI0qxOJfr9WSczgE',
+    appId: '1:297605850162:android:1633b43fbc80cf12a0082b',
+    messagingSenderId: '297605850162',
+    projectId: 'dotacat-ba655',
+    storageBucket: 'dotacat-ba655.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCW92IY3d-9c_AO4A9oMW-cFfC-WQ4wNQM',
-    appId: '1:525771353527:ios:569003025a44d3cf6c8c32',
-    messagingSenderId: '525771353527',
-    projectId: 'lab1flutter',
-    storageBucket: 'lab1flutter.appspot.com',
+    appId: '1:297605850162:android:1633b43fbc80cf12a0082b',
+    messagingSenderId: '297605850162',
+    projectId: 'dotacat-ba655',
+    storageBucket: 'dotacat-ba655.appspot.com',
     iosBundleId: 'lab1',
   );
 }
